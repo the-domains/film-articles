@@ -1,0 +1,14 @@
+layout_spectrum: 0.8510638
+typography_spectrum: 0.4302228
+color:
+  saturation: 0.9042171
+  brandStrength: 0.3828886
+  lightness: 0.03337417
+  brandColors:
+    - '#040E42'
+    - '#0E3075'
+    - '#3A4A88'
+    - '#FFFFFF'
+    - '#A3A5BA'
+  rhythmicContrast: 0.8677574
+name: Film Articles
